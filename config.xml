@@ -4,15 +4,15 @@
 	id		= "com.alunny.amazing"
 	version 	= "1.0.0">
 
-	<name>alunnys Amazing App</name>
+	<name>GrooveShark</name>
 
 	<description>
-		An Amazing app by alunny
+		GrooveShark Browser
 	</description>
 
 	<author href="http://ep8.org"
 		email="John@ep8.org">
-		Andrew Lunny
+		JAG
 	</author>
 
 	<gap:platforms>
